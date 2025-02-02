@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pa17112002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nU2ebDqNqgaTNJrlx4PhuSX4DqDm6yqa/view?usp=sharing](https://drive.google.com/file/d/1nU2ebDqNqgaTNJrlx4PhuSX4DqDm6yqa/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1Qn2hOlwQsxgjiCbhK8GqMO0bDeUHt8Gs/view?usp=sharing)
 
 - ⚡ Fun fact **I can code an entire backend while also debating why chess is more strategic than handball—two games I played in school!**
 

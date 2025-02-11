@@ -143,5 +143,5 @@ Full-Stack Developer
 <div align="center">
   <h3>🐍 My Contributions</h3>
   <img alt="snake eating my contributions"
-       src="https://raw.githubusercontent.com/Paras-17/snk/manual-run-output/dist/docker/github-contribution-grid-snake.svg">
+       src="https://raw.githubusercontent.com/Paras-17/snk/manual-run-output/only-svg/github-contribution-grid-snake.svg">
 </div>

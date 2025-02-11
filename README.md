@@ -1,5 +1,4 @@
 <div align="center">
-![Snake animation](https://raw.githubusercontent.com/Paras-17/snk/manual-run-output/dist/only-svg/github-contribution-grid-snake.svg)
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Paras+Saini!;Full-Stack+Developer+|+Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -7,7 +6,7 @@
 </div>
 
 <h3 align="center">
-  Computer Science | Full-Stack Developer | Problem Solver
+Full-Stack Developer
 </h3>
 
 <p align="center">
@@ -143,7 +142,6 @@
 
 <div align="center">
   <h3>🐍 My Contributions</h3>
-  <br/>
-  <img alt="snake eating my contributions" src="https://github.com/Paras-17/Paras-17/blob/output/github-contribution-grid-snake.svg" />
-  <br/><br/>
+  <img alt="snake eating my contributions"
+       src="https://raw.githubusercontent.com/Paras-17/snk/manual-run-output/dist/docker/github-contribution-grid-snake.svg">
 </div>

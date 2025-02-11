@@ -128,13 +128,13 @@
 ### 📊 GitHub Stats
 
 <!-- Streak stats -->
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Paras-17&theme=tokyonight&hide_border=true" />
 
 <!-- Readme stats -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Paras-17&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <!-- Top Languages -->
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-17&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -143,6 +143,6 @@
 <div align="center">
   <h3>🐍 My Contributions</h3>
   <br/>
-  <img alt="snake eating my contributions" src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Paras-17/Paras-17/blob/output/github-contribution-grid-snake.svg" />
   <br/><br/>
 </div>

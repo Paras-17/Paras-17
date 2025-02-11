@@ -1,26 +1,60 @@
-<h1 align="center">Hi 👋, I'm Paras Saini</h1>
-<h3 align="center">Paras Saini Computer Science | Full-Stack Developer | Problem Solver I am a Computer Science student with a focus on building innovative software solutions and solving complex problems. My expertise includes full-stack development, 2D-to-3D image and video conversion, and face recognition systems. Proficient in C++, Python, Flask, and SQL, I enjoy creating efficient, scalable applications and contributing to impactful projects.<br> Key Achievements: Smart India Hackathon Finalist: Led a project focused on 2D-to-3D image conversion for tracking construction progress.<br> Published Research: Authored papers on backend frameworks (Flask, Django, NodeJS), 3D conversion algorithms, and face recognition technologies. <br>Hackathon Winner: Won the internal hackathon at college as a team leader.<br> Certifications: Python for Data Science, IOT and C++ Programming through NPTEL.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Learning Dashboard**
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Paras+Saini!;Full-Stack+Developer+|+Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Node.js, Django**
+</div>
 
-- 💬 Ask me about **Flask**
+<h3 align="center">
+  Computer Science | Full-Stack Developer | Problem Solver
+</h3>
 
-- 📫 How to reach me **pa17112002@gmail.com**
-
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1Qn2hOlwQsxgjiCbhK8GqMO0bDeUHt8Gs/view?usp=sharing)
-
-- ⚡ Fun fact **I can code an entire backend while also debating why chess is more strategic than handball—two games I played in school!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/17-paras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/17-paras" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27874208/paras-saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27874208/paras-saini" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/21bcs11677/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/21bcs11677/" height="30" width="40" /></a>
+<p align="center">
+  I am a Computer Science student focused on building innovative software solutions and solving 
+  complex problems. My expertise includes full-stack development, 2D-to-3D image and video 
+  conversion, and face recognition systems. I'm proficient in <b>C++, Python, Flask, and SQL</b>, 
+  and I enjoy creating efficient, scalable applications while contributing to impactful projects.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<details>
+  <summary><b>Key Achievements & Highlights</b></summary>
+  <ul>
+    <li>Smart India Hackathon Finalist: Led a project focused on 2D-to-3D image conversion for tracking construction progress.</li>
+    <li>Published Research: Authored papers on backend frameworks (Flask, Django, NodeJS), 3D conversion algorithms, and face recognition technologies.</li>
+    <li>Hackathon Winner: Won the internal hackathon at college as a team leader.</li>
+    <li>Certifications: Python for Data Science, IoT, and C++ Programming through NPTEL.</li>
+  </ul>
+</details>
+
+---
+
+- 🔭 I’m currently working on **Learning Dashboard**  
+- 🌱 I’m currently learning **Node.js, Django**  
+- 💬 Ask me about **Flask**  
+- 📫 Reach me at **pa17112002@gmail.com**  
+- 📄 Check my experiences on my [**RESUME**](https://drive.google.com/file/d/1Qn2hOlwQsxgjiCbhK8GqMO0bDeUHt8Gs/view?usp=sharing)  
+- ⚡ **Fun fact**: I can code an entire backend while also debating why chess is more strategic than handball—two games I played in school!
+
+---
+
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/17-paras" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/17-paras" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/27874208/paras-saini" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow/paras-saini" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/21bcs11677/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode/21bcs11677" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -86,3 +120,29 @@
         <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
     </a> 
 </p>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<!-- Streak stats -->
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+<!-- Readme stats -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!-- Top Languages -->
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+  <h3>🐍 My Contributions</h3>
+  <br/>
+  <img alt="snake eating my contributions" src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <br/><br/>
+</div>

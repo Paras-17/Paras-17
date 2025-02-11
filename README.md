@@ -1,4 +1,5 @@
 <div align="center">
+![Snake animation](https://raw.githubusercontent.com/Paras-17/snk/manual-run-output/dist/only-svg/github-contribution-grid-snake.svg)
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Paras+Saini!;Full-Stack+Developer+|+Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />

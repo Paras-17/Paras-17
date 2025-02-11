@@ -128,7 +128,10 @@ Full-Stack Developer
 ### 📊 GitHub Stats
 
 <!-- Streak stats -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Paras-17&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paras-17&theme=tokyonight" alt="GitHub Streak" />
+</a>
+
 
 <!-- Readme stats -->
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Paras-17&show_icons=true&theme=tokyonight&hide_border=true" />

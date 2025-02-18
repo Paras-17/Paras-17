@@ -15,7 +15,7 @@ Full-Stack Developer
   conversion, and face recognition systems. I'm proficient in <b>C++, Python, Flask, and SQL</b>, 
   and I enjoy creating efficient, scalable applications while contributing to impactful projects.
 </p>
-<img src="https://komarev.com/ghpvc/?username=Paras-17&color=green" alt="profile views" />
+
 
 ---
 
@@ -37,7 +37,7 @@ Full-Stack Developer
 - 📫 Reach me at **pa17112002@gmail.com**  
 - 📄 Check my experiences on my [**RESUME**](https://drive.google.com/file/d/1Qn2hOlwQsxgjiCbhK8GqMO0bDeUHt8Gs/view?usp=sharing)  
 - ⚡ **Fun fact**: I can code an entire backend while also debating why chess is more strategic than handball—two games I played in school!
-
+<img src="https://komarev.com/ghpvc/?username=Paras-17&color=green" alt="profile views" />
 ---
 
 <h3 align="left">Connect with Me:</h3>

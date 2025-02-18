@@ -15,7 +15,7 @@ Full-Stack Developer
   conversion, and face recognition systems. I'm proficient in <b>C++, Python, Flask, and SQL</b>, 
   and I enjoy creating efficient, scalable applications while contributing to impactful projects.
 </p>
-![](https://komarev.com/ghpvc/?username=Paras-17&color=green)
+(https://komarev.com/ghpvc/?username=Paras-17&color=green)
 
 ---
 

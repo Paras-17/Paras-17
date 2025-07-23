@@ -31,7 +31,7 @@ Full-Stack Developer
 
 ---
 
-- 🔭 I’m currently working on **Learning Dashboard**  
+- 🔭 I’m currently working on **Zerodha clone**  
 - 🌱 I’m currently learning **Node.js, Django**  
 - 💬 Ask me about **Flask**  
 - 📫 Reach me at **pa17112002@gmail.com**  
